@@ -9,7 +9,6 @@ En este primer desafío, se trata de realizar el análisis de datos de cuatro su
 Identificar la tienda **menos eficiente** del Sr. Juan, utilizando análisis de datos para respaldar una recomendación final basada en métricas reales.
 
 ---
-
 ## Herramientas utilizadas
 
 - ✅ Carga y manipulación de archivos CSV usando **pandas**
@@ -46,6 +45,16 @@ Se utilizaron gráficos para representar visualmente los resultados.
 - 📈 Tabla: Productos más y menos vendidos por tienda.
 - 📊 Gráfico de líneas: Cantidad de productos vendidos
 - 📉 Gráfico de barras horizontales: Promedio de costo de envío por tienda
+
+---
+
+## Archivos utilizados
+
+- 📇 [Archivo de la Tienda 1](https://github.com/GiseC/AluraDataScience/blob/main/tienda_1%20.csv)
+- 📇 [Archivo de la Tienda 2](https://github.com/GiseC/AluraDataScience/blob/main/tienda_2.csv)
+- 📇 [Archivo de la Tienda 3](https://github.com/GiseC/AluraDataScience/blob/main/tienda_3.csv)
+- 📇 [Archivo de la Tienda 4](https://github.com/GiseC/AluraDataScience/blob/main/tienda_4.csv)
+
 
 ---
 
