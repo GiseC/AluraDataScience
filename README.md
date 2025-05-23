@@ -60,8 +60,8 @@ Se utilizaron gráficos para representar visualmente los resultados.
 
 ## 📌 Resultado
 
-El resumen del análisis y conclusión se realizó en el archivo: “Reporte.pdf”. 
+El resumen del análisis y conclusión se realizó en el archivo: [Reporte.pdf](https://github.com/GiseC/AluraDataScience/blob/main/Reporte.pdf)
 
-El código realizado y el paso a paso del análisis de los datos se encuentra en el proyecto
+El código realizado y el paso a paso del análisis de los datos se encuentra en el proyecto: [AluraStoreLatam1.ipynb](https://github.com/GiseC/AluraDataScience/blob/main/AluraStoreLatam1.ipynb)
 
 ---
